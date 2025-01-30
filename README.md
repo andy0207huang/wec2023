@@ -6,11 +6,12 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   
-  <h3 align="center">🌱 Western Engineering Competition 2023, January 13-15, 2023</h3>
+  <h2 align="center">🌱 Western Engineering Competition 2023, January 13-15, 2023</h2>
   
-  <h3 align="center">🏆🥇 Programming Category 1st Place</h3>
+  <h2 align="center">🏆🥇 Programming Category 1st Place</h2>
 
 ![Alt Text](https://raw.githubusercontent.com/andy0207huang/wec2023/refs/heads/main/wec-screenshots/Capture-0.PNG)
+
 
   <p align="center">
     <a href="https://www.eng.uwo.ca/media/news/2023/Western-hosts-44th-Ontario-Engineering-Competition.html"><strong>Read Full Article >></strong></a>
