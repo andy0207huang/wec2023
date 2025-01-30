@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   
-  <h3 align="center">🌱 Western Engineering Competition 2024, January 13-15, 202</h3>
+  <h3 align="center">🌱 Western Engineering Competition 2023, January 13-15, 2023</h3>
   
   <h3 align="center">🏆🥇 Programming Category 1st Place</h3>
 
